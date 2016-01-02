@@ -15,7 +15,7 @@ Npm.depends({
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
 
-  api.use('ecmascript', ['client', 'server']);
+  api.use('ecmascript@0.1.6', ['client', 'server']);
   api.use('http', ['client', 'server']);
   api.use('templating', 'client');
   api.use('oauth1', ['client', 'server']);
