@@ -9,10 +9,8 @@ This package allows oAuth via the Quickbooks API.
 $ meteor add fourquet:quickbooks
 ```
 
-### Version
+#### Version
 2.0.0_2
 
-License
-----
-
+#### License
 MIT
