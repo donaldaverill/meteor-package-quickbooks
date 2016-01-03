@@ -1,8 +1,9 @@
 Package.describe({
   summary: 'An implementation of the Quickbooks oAuth flow.',
-  version: '2.0.0_1',
+  version: '2.0.0_2',
+  summary: 'Quickbooks oAuth Flow for Meteor',
   name: 'fourquet:quickbooks',
-  git: 'https://github.com/fourquet/quickbooks.git',
+  git: 'https://github.com/fourquet/meteor-package-quickbooks.git',
   documentation: 'README.md',
   license: 'LICENSE',
 });
