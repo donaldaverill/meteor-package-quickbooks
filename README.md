@@ -10,7 +10,7 @@ $ meteor add fourquet:quickbooks
 ```
 
 ### Version
-2.0.0_1
+2.0.0_2
 
 License
 ----
